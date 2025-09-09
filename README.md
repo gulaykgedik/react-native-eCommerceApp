@@ -20,20 +20,9 @@ Users can browse products, manage their orders, and update their profile informa
 - [Redux Toolkit](https://redux-toolkit.js.org/) - State management
 - [Async Storage](https://github.com/react-native-async-storage/async-storage) - Local storage
 - [Axios](https://axios-http.com/) - API requests
-- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) - Icons
+- [Iconsax](https://github.com/oblador/react-native-vector-icons) - Icons
 
 -----
-
-📦 ecommerce-app
- ┣ 📂 src
- ┃ ┣ 📂 components   # Reusable UI components
- ┃ ┣ 📂 screens      # Home, Orders, Profile screens
- ┃ ┣ 📂 redux        # Redux store and slices
- ┃ ┣ 📂 assets       # Images and icons
- ┃ ┗ 📂 utils        # Helper functions
- ┣ 📜 App.js
- ┣ 📜 package.json
- ┗ 📜 README.md
 
 ## Screenshots
 
